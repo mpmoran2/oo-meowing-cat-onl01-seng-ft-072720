@@ -5,7 +5,6 @@ end
   def meow
     puts "meow!"
   end
-end
 
 muta = Cat.new 
 muta.name = "Muta"
